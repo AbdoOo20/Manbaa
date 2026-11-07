@@ -1,5 +1,4 @@
 using System.Text.Json.Serialization;
-
 using Manbaa.Api.BackgroundServices;
 using Manbaa.Api.ExceptionHandling;
 using Manbaa.Api.Extensions;
